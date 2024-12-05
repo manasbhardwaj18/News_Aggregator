@@ -1,20 +1,28 @@
-NewsAggregator App
+# NewsAggregator App
 
-NewsAggregator is a mobile application built with React Native and Expo, designed to aggregate and display the latest news from various sources. It allows users to read news articles from multiple sources in a simple and clean interface.
-Features
+**NewsAggregator** is a mobile application built with React Native and Expo, designed to aggregate and display the latest news from various sources. It allows users to read news articles from multiple sources in a simple and clean interface.
 
-    News Aggregation: Pulls the latest headlines and news from multiple APIs.
-    Customizable Categories: Users can choose their preferred news categories such as Technology, Sports, Entertainment, etc.
-    User-Friendly Interface: Simple and clean design to enhance user experience.
-    Real-Time Updates: News articles are fetched in real-time, providing the most up-to-date information.
+---
 
-Technologies Used
+## Features
 
-    React Native: For building the mobile app.
-    Expo: For faster development and testing.
-    React Navigation: For handling navigation within the app.
-    News API: Aggregating news data from multiple news sources (you can replace this with your preferred news API).
-    Tailwind CSS: For styling the app with utility-first CSS.
+- **News Aggregation**: Pulls the latest headlines and news from multiple APIs.
+- **Customizable Categories**: Users can choose their preferred news categories such as **Technology**, **Sports**, **Entertainment**, etc.
+- **User-Friendly Interface**: Simple and clean design to enhance user experience.
+- **Real-Time Updates**: News articles are fetched in real-time, providing the most up-to-date information.
+
+---
+
+## Technologies Used
+
+- **React Native**: For building the mobile app.
+- **Expo**: For faster development and testing.
+- **React Navigation**: For handling navigation within the app.
+- **News API**: Aggregating news data from multiple news sources (you can replace this with your preferred news API).
+- **Tailwind CSS**: For styling the app with utility-first CSS.
+
+---
+
 
 Screenshots :
 
